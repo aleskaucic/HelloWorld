@@ -14,7 +14,9 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// Izpišemo pozdrav
 		System.out.println("Hello world!");
-	
+		
+		
+		// Ustvarimo objekte
 		Kozarec k = new Kozarec(200);
 		Krigel kr = new Krigel(5000, "Steklo", "Okrogel", false);
 	
